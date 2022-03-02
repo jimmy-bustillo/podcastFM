@@ -1,28 +1,36 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
+  "name": "podcastfm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jimmy Bustillo",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "cssnano": "^5.0.7",
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-avif": "^1.0.1",
-    "gulp-imagemin": "^7.0.0",
-    "gulp-postcss": "^9.0.0",
-    "gulp-sass": "^5.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-webp": "^4.0.1",
-    "postcss": "^8.3.6",
-    "sass": "^1.37.5"
+    "postcss": "^8.4.7",
+    "sass": "^1.49.9"
   },
   "browserslist": [
     "last 1 version",
     "> 1%"
-  ]
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmy-bustillo/podcastFM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmy-bustillo/podcastFM/issues"
+  },
+  "homepage": "https://github.com/jimmy-bustillo/podcastFM#readme",
+  "description": ""
 }
